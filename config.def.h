@@ -65,5 +65,5 @@ static const char unknown_str[] = "n/a";
  */
 static const struct arg args[] = {
 	/* function format          argument */
-	{ datetime, "\x06\ue0b6\x01%s\x06\ueb4",           "%a %d %b %H:%M" },
+	{ datetime, "\x06\ue0b6\x01%s\x06\ue0b4",           "%a %d %b %H:%M" },
 };
